@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51182747453",
+    "project_id": "netflix-kotlin-65184",
+    "storage_bucket": "netflix-kotlin-65184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51182747453:android:06913871e1835dec824f54",
+        "android_client_info": {
+          "package_name": "com.example.netflixkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51182747453-7epmb35jpr40eggqm5vn304k4620mr08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzylrgHqtWaSJSckjKctsbop6yAq2-oEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51182747453-7epmb35jpr40eggqm5vn304k4620mr08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
